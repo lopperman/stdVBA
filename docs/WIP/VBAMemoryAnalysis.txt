@@ -15,7 +15,7 @@ Memory at offset:
 1066D5A0 0F
 
 Data from RAM:
-ashg3ysgg3shj2.s..ÿÿÿÿ........™Ä....Æ...ÿ...bjfuh3bs7g3vghas.par..ÿÿÿÿ........Cª....È...ÿ...cjhug6gvgutr.has..ÿÿÿÿ........µò....Ê...ÿ...dhu99yhiug87gyyutfyr.tor..ÿÿÿÿ........rË....Ì...ÿ...eh9g8yifutfythjg.fyr.. ...........÷c....Î.(.....test2..y.............
+ashg3ysgg3shj2.s..Ã¿Ã¿Ã¿Ã¿........â„¢Ã„....Ã†...Ã¿...bjfuh3bs7g3vghas.par..Ã¿Ã¿Ã¿Ã¿........CÂª....Ãˆ...Ã¿...cjhug6gvgutr.has..Ã¿Ã¿Ã¿Ã¿........ÂµÃ²....ÃŠ...Ã¿...dhu99yhiug87gyyutfyr.tor..Ã¿Ã¿Ã¿Ã¿........rÃ‹....ÃŒ...Ã¿...eh9g8yifutfythjg.fyr.. ...........Ã·c....ÃŽ.(.....test2..y.............
 
 
 ashg3ysgg3shj2.s       <-- s  string
@@ -39,7 +39,7 @@ VBA Mem begin:
 
 
 Debug GUID?
-Debug...,ã:.ð•;.è•;.,ã:.ð•;.è•;.¬W7.WinComp.,ã:.ð•;.AugLoop.....3de4087d4de34817b1c376e3d1e6e293-983c4292-5ba9-485a-ab10-9797863c788b-6770..Client..,ã:.¼W7..X7.ü•;.,ã:.¼W7.,ã:.¼W7..X7.AugLoopData::NativeService..T.a.r.g.e.t.....Insiders....Production..Dogfood.Microsoft...Automation.
+Debug...,Ã£:.Ã°â€¢;.Ã¨â€¢;.,Ã£:.Ã°â€¢;.Ã¨â€¢;.Â¬W7.WinComp.,Ã£:.Ã°â€¢;.AugLoop.....3de4087d4de34817b1c376e3d1e6e293-983c4292-5ba9-485a-ab10-9797863c788b-6770..Client..,Ã£:.Â¼W7..X7.Ã¼â€¢;.,Ã£:.Â¼W7.,Ã£:.Â¼W7..X7.AugLoopData::NativeService..T.a.r.g.e.t.....Insiders....Production..Dogfood.Microsoft...Automation.
 
 
 
@@ -61,7 +61,7 @@ Microsoft OfficeJS:
 
 
 Formula errors:
-#BLOCKED!..#CALC!..#CONNECT!..#DIV/0!..#FIELD!..#GETTING_DATA..#N/A..#NAME?„.LL!..#NUM!..#REF!..#SPILL!..#UNKNOWN!..#VALUE!
+#BLOCKED!..#CALC!..#CONNECT!..#DIV/0!..#FIELD!..#GETTING_DATA..#N/A..#NAME?â€ž.LL!..#NUM!..#REF!..#SPILL!..#UNKNOWN!..#VALUE!
 
 
 VBA keywords?
